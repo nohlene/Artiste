@@ -2,7 +2,6 @@
 title: "Le style artistque"
 ---
 
----
 ## Trouver son propre style artistique
 
 Bien que savoir maîtriser les bases du dessin est important, trouver son propre style l’est tout autant!
