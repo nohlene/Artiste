@@ -1,5 +1,5 @@
 ---
-title: "Titre"
+title: "ART DE TABLE"
 ---
 
->La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes. Turing
+>L'art culinaire permet de detendre l'atmosphère et améliore la communication entre les personnes; Il nous met en joie.
