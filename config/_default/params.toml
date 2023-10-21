@@ -1,7 +1,7 @@
 auteur = "Nohlène Youlou"
 bloctexte = "justify"
 copyright = "CC BY-NC-SA"
-couverture = "/uploads/couverture.png"
+couverture = "/content/logo.png"
 description = "Description"
 edition = "Fabrique"
 format = "portrait"
